@@ -1,0 +1,10 @@
+.rsc-header h2{
+    color: #fff;
+}
+.rsc-header{
+    height: 45px;
+    font-weight: normal;
+}
+.rsc-header-close-button svg{
+    height: 20px;
+}
